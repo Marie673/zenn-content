@@ -285,7 +285,7 @@ kit の変更は次のとおりです。
 コードは次のリポジトリに置きます。
 
 - ハーネス: https://github.com/Marie673/isucon-kit
-- デプロイやベンチの道具: https://github.com/kyusu-like-thing/bootstrap
+- デプロイやベンチの道具: https://github.com/Marie673/bootstrap
 - 3 回目の試行の記録: https://github.com/Marie673/practice-isucon2026c
 
 ## おわりに
