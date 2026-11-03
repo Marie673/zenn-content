@@ -290,10 +290,13 @@ kit の変更は次のとおりです。
 
 ## コード
 
-コードは次のリポジトリで公開する予定です。今はまだ非公開で、整理してから公開します。
+3 回目の試行の記録は公開しました。当日マニュアルと初期実装は外してあるので、読むためのリポジトリです。
 
-- ハーネス: https://github.com/Marie673/isucon-kit
-- 3 回目の試行の記録: https://github.com/Marie673/practice-isucon2026c
+https://github.com/Marie673/practice-isucon2026c
+
+ハーネスは整理してから公開します。
+
+- https://github.com/Marie673/isucon-kit（今はまだ非公開です）
 
 ## おわりに
 
