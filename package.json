@@ -1,0 +1,22 @@
+{
+  "name": "zenn-content",
+  "version": "1.0.0",
+  "description": "Zenn の記事",
+  "scripts": {
+    "preview": "zenn preview",
+    "new": "zenn new:article"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Marie673/zenn-content.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Marie673/zenn-content/issues"
+  },
+  "homepage": "https://github.com/Marie673/zenn-content#readme",
+  "dependencies": {
+    "zenn-cli": "^0.5.13"
+  },
+  "private": true
+}
