@@ -1,5 +1,5 @@
 ---
-title: "ISUCON2026 感想戦で 4,127 点から 63 万点へ ― AI エージェントと実行した 180 回のベンチマーク"
+title: "ISUCON2026 感想戦で 63 万点まで伸ばした"
 emoji: "📸"
 type: "tech"
 topics: ["isucon", "go", "postgresql", "aws", "performance"]
