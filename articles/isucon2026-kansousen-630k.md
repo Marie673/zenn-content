@@ -3,7 +3,7 @@ title: "ISUCON2026 感想戦で 63 万点まで伸ばした"
 emoji: "📸"
 type: "tech"
 topics: ["isucon", "go", "postgresql", "aws", "performance"]
-published: false
+published: true
 ---
 
 前回の記事の続きです。
